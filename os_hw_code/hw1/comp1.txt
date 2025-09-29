@@ -1,0 +1,4 @@
+zsh@kolp:~/VScodeproject/os_hw/hw1$ ./getpid_glibc && ./getpid_syscall && ./getpid_assembly
+glibc    getpid() average time: 10659304875 ns
+syscall  getpid() average time: 9713873814 ns
+assembly getpid() average time: 2115 ns
